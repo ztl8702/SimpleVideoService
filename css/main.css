@@ -1,0 +1,26 @@
+.autoheight
+{
+height:200px;
+}
+
+@media (min-width: 768px){
+.autoheight
+{
+height:282px;
+}
+}
+
+@media (min-width: 992px){
+.autoheight
+{
+height:365px;
+}
+
+}
+@media (min-width: 1200px){
+.autoheight
+{
+height:440px;
+}
+
+}
